@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📄 Work Experience:
+  - Software Developer @ Citi
+  - Software Developer Intern @ Winterlight Labs
+  - Web Developer Intern @ Special Olympics Ontario
+
+- 🌱 Education:
+  - B.Sc in Computer Science @ University of Toronto
+  
+- 🔭 I’m currently working on a <u>cross stitch pattern design</u> app in Godot and reading <u>The Covenant of Water</u>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jennifer-ruan) | [Email](mailto:jennifer.y.ruan@gmail.com)
