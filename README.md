@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📄 Work Experience:
+  - Frontend Developer @ Affirm
   - Software Developer @ Citi
   - Software Developer Intern @ Winterlight Labs
   - Web Developer Intern @ Special Olympics Ontario
